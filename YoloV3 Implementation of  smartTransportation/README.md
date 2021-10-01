@@ -1,6 +1,6 @@
 a_first_step_into_our_smart_city implemented in YoloV3
 
-This is a project done by a team of Students from the Addis Ababa Science and Technology University consisting of 5 team members, under the supervision of Professor Dr. Srinivasan Ramasamy  1st degree connection, Professor at RMK ENGINEERING COLLEGE, CHENNAI. Our team:
+This is a project done by a team of Students from the Addis Ababa Science and Technology University consisting of 5 team members, under the supervision of Professor Dr. Srinivasan Ramasamy, Professor at RMK ENGINEERING COLLEGE, CHENNAI. Our team:
 
 1) Eyobed Tilaye Kebede
 2) Eyuel Tibebu
